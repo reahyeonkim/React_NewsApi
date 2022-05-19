@@ -1,10 +1,12 @@
 # 뉴스API 를 이용하여 뉴스 종합 사이트
-##### Axios
+##### yarn start
+##### Axios 
 ##### React-router-Dom
 ##### styled-components
 ##### 뉴스API 사용
 ##### 커스텀 Hooks 을 사용해서 최적화 하기
 ##### 반응형(media) Css 적용
+##### 카테고리 이동 과 선택 뉴스를 보이기 위해 쿼리를 만들어 뉴스 APi 주소 에 적용 
 <br />
 <br />
 

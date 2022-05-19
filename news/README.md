@@ -1,4 +1,4 @@
-# 뉴스API 를 이용하여 뉴스 종합 사이트 구현
+# 뉴스API 를 이용하여 뉴스 종합 사이트
 ##### Axios
 ##### React-router-Dom
 ##### styled-components
